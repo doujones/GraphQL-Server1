@@ -1,0 +1,28 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "graphql-server",
+  "main": "server.js",
+  "dependencies": {
+    "express-generator": "^4.16.1",
+    "npm": "^6.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doujones/GraphQL-Server1.git"
+  },
+  "keywords": [
+    "WB"
+  ],
+  "author": "William Boswell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doujones/GraphQL-Server1/issues"
+  },
+  "homepage": "https://github.com/doujones/GraphQL-Server1#readme"
+}
